@@ -1,0 +1,54 @@
+.container-fluid {
+  max-height: 400px;
+  padding: 0;
+}
+
+.navbar-nav {
+  margin: 0 4% 0 4%;
+}
+
+h2 {
+  font-size: 1.2rem;
+}
+
+.product-grid-header {
+  padding: 1%;
+  background-color: #dddddd;
+  border-radius: 8px 8px 0 0;
+  margin: 8px 8px 0;
+}
+
+.product-grid {
+  margin: 0 8px 8px;
+  padding: 1%;
+  border: 1px solid;
+  border-color: #dddddd;
+  border-top: 0;
+  border-radius: 0 0 8px 8px;
+  background-color: #fff;
+}
+
+.card {
+  background-color: #fff;
+  text-align: center;
+}
+
+.card-img-top {
+  background-color: #fff;
+  width: 165px;
+  height: 165px;
+}
+
+.advertisements-imgs {
+  max-height: 225px;
+  margin: 16px 8px 16px 8px;
+}
+
+.add-block {
+  padding: 0 5px;
+}
+
+.add-img {
+  width: inherit;
+  height: inherit;
+}
